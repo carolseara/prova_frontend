@@ -1,16 +1,6 @@
 # Projeto de Testes com Cypress
 
 Este projeto utiliza JavaScript e o framework Cypress para realizar testes automatizados de front-end. 
-## Índice
-
-- [Descrição](#descrição)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Escrevendo Testes](#escrevendo-testes)
-- [Executando Testes](#executando-testes)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Descrição
 
